@@ -13,3 +13,5 @@ group :test do
   gem 'rspec_junit_formatter'
   gem 'nokogiri'
 end
+
+gem "rackup", "~> 2.2"
